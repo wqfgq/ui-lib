@@ -20,9 +20,9 @@ local library = {
     ended = {},
     colors = {},
     folders = {
-        main = "disarray",
-        assets = "disarray/assets",
-        configs = "disarray/configs"
+        main = "Yms",
+        assets = "Yms/assets",
+        configs = "Yms/configs"
     },
     shared = {
         initialized = false,

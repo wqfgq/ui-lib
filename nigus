@@ -1,7 +1,4 @@
---[[ Credits
-    Matas#3535 @matas - Created UI
-    bored#9316 @wally hub user - Helped make library
-]]
+
 -- // Variables
 local ws = game:GetService("Workspace")
 local uis = game:GetService("UserInputService")
